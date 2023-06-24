@@ -56,16 +56,3 @@ a:hover {
 .navbar li:first-child {
   margin-left: 0; /* Optional: Remove the spacing for the first item */
 }
-In the above example, the text-align: right; property is used to move the navigation bar to the right side of its container. The display: inline-block; property is applied to the <ul> element to make it display as a horizontal list. The display: inline; property is used for the <li> elements to make them appear side by side. The margin-left property adds spacing between the list items, and in this example, it's set to 10px. The margin-left: 0; property is applied to the first <li> element to remove the spacing for the first item if desired.
-
-You can adjust the CSS properties as needed to match your specific design requirements.
-
-
-
-
-
-
-
-
- 
-}
