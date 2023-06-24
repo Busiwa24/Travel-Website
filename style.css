@@ -1,5 +1,8 @@
 body {
   margin: 0;
   padding: 0;
-  background: white;
+  background-image: url("../img/serengeti_giraffe.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: centre;
 }
