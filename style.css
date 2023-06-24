@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("../img/serengeti_giraffe.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: centre;
+}
+
+nav {
+  background-color: #f1f1f1;
+  padding: 10px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+  margin-right: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+  padding: 5px 10px;
+  padding: 5px 10px;
+  font-family: Arial, sans-serif; /* Font family */
+  font-size: 16px; /* Font size */
+}
+
+a:hover {
+  background-color: #333;
+  color: #fff;
+}
+
+.navbar {
+  text-align: right;
+}
+
+.navbar ul {
+  display: inline-block;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar li {
+  display: inline;
+  margin-left: 10px; /* Optional: Add some spacing between the list items */
+}
+
+.navbar li:first-child {
+  margin-left: 0; /* Optional: Remove the spacing for the first item */
+}
